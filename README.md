@@ -1,4 +1,4 @@
-# Web API CRUD Project – Vibe Coding Challenge (PDF Version)
+# Web API CRUD Project
 
 This repository contains a full-stack **ASP.NET Core Web API CRUD application**, developed in just **2 days** as part of a coding sprint under the **Vibe Coding** initiative. The project demonstrates practical skills in building RESTful APIs, frontend integration, and database connectivity using modern Microsoft technologies.
 
